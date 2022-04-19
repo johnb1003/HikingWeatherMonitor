@@ -1,0 +1,12 @@
+/Users/JohnBurns/Desktop/Coding/Projects/HikingWeatherMonitor/src/main/java/com/johnburnsdev/hikingweathermonitor/service/WashingtonForecastService.java
+/Users/JohnBurns/Desktop/Coding/Projects/HikingWeatherMonitor/src/main/java/com/johnburnsdev/hikingweathermonitor/client/WashingtonClient.java
+/Users/JohnBurns/Desktop/Coding/Projects/HikingWeatherMonitor/src/main/java/com/johnburnsdev/hikingweathermonitor/model/washington/WashingtonSummitOutlook.java
+/Users/JohnBurns/Desktop/Coding/Projects/HikingWeatherMonitor/src/main/java/com/johnburnsdev/hikingweathermonitor/model/washington/WashingtonImperialForecast.java
+/Users/JohnBurns/Desktop/Coding/Projects/HikingWeatherMonitor/src/main/java/com/johnburnsdev/hikingweathermonitor/service/ForecastService.java
+/Users/JohnBurns/Desktop/Coding/Projects/HikingWeatherMonitor/src/main/java/com/johnburnsdev/hikingweathermonitor/HikingWeatherMonitorApplication.java
+/Users/JohnBurns/Desktop/Coding/Projects/HikingWeatherMonitor/src/main/java/com/johnburnsdev/hikingweathermonitor/model/Forecast.java
+/Users/JohnBurns/Desktop/Coding/Projects/HikingWeatherMonitor/src/main/java/com/johnburnsdev/hikingweathermonitor/model/washington/WashingtonForecast.java
+/Users/JohnBurns/Desktop/Coding/Projects/HikingWeatherMonitor/src/main/java/com/johnburnsdev/hikingweathermonitor/util/ConfigUtil.java
+/Users/JohnBurns/Desktop/Coding/Projects/HikingWeatherMonitor/src/main/java/com/johnburnsdev/hikingweathermonitor/schedule/MonitorSchedule.java
+/Users/JohnBurns/Desktop/Coding/Projects/HikingWeatherMonitor/src/main/java/com/johnburnsdev/hikingweathermonitor/model/washington/WashingtonJsonResponse.java
+/Users/JohnBurns/Desktop/Coding/Projects/HikingWeatherMonitor/src/main/java/com/johnburnsdev/hikingweathermonitor/client/TwilioClient.java

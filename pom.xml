@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.johnburnsdev</groupId>
-	<artifactId>summitconditionsmonitor</artifactId>
+	<artifactId>hikingweathermonitor</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>summitconditionsmonitor</name>
+	<name>hikingweathermonitor</name>
 	<description>Monitor Mt. Washington summit conditions for safe hiking weather</description>
 	<properties>
 		<java.version>11</java.version>
